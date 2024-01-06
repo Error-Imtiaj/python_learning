@@ -15,7 +15,7 @@ print(ourFamily)
 #   CREATE A DICTONARY INSIDE A DICTONARY IS A NESTED DICTONARY
 
 ourg = {
-    "name" : "pappu dey",
+    "name" : "pappu dev",
     "Roll" : 21,
     "Class": 5,
     "Department":"Science",
