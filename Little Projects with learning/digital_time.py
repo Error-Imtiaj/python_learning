@@ -1,4 +1,4 @@
-##! DIGITAL TIME 
+##! DIGITAL TIME Project
 from datetime import datetime
 import time
 import os
